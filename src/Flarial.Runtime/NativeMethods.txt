@@ -19,6 +19,7 @@ FindWindowEx
 GetWindowThreadProcessId
 SwitchToThisWindow
 CreateRemoteThread
+GetExitCodeThread
 QueueUserAPC
 LoadLibraryEx
 GetModuleHandle
